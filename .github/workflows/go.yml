@@ -34,4 +34,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: absormu/belajar-cicd:latest
+          tags: absormu/belajar-cicd:1.0
